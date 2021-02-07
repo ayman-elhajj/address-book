@@ -1,0 +1,8 @@
+com\example\addressbook\AddressBookApplication.class
+com\example\addressbook\dao\FakePersonDataAccessService.class
+com\example\addressbook\controller\MainController.class
+com\example\addressbook\controller\PersonController.class
+com\example\addressbook\dao\PersonDataAccessService.class
+com\example\addressbook\model\Person.class
+com\example\addressbook\dao\PersonDao.class
+com\example\addressbook\service\PersonService.class
